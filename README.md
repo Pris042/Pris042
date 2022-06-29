@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Pris042/Pris042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
+<p><img align="right" src="https://github.com/Pris042/Pris042/blob/main/Welcome.gif" width"1000" height="600" /></p>
+
+
 #### ABOUT ME 
 - 🔭 I’m currently working on Snakes and Ladder game in C program
 - 🌱 I’m currently learning HTML, CSS3 and Javascript
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ANYTHING!
 - 💬 Ask me about My scholarship with Westpac
 - 📫 How to reach me: Check my Socials down below :)
 - 😄 Pronouns: She/Her
