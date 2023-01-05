@@ -4,6 +4,9 @@
 
 I am an aspiring software engineer and cyber security specialist. I am extremly passionate about learning new coding langauges, creating cool projects and exploring ethical hacking. I hope to use my skills to create and explore how technology connects us together, as well as how it can be further used in unconventional industries. 
 
+#                       Chnage has to start somewhere, and i want to incite or be apart of that change
+
+
 
 
 <!--
