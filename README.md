@@ -80,9 +80,7 @@ int main() {
 
 #### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pris042&count_private=true&show_icons=true&theme=graywhite" width="400">
-
-<img src="https://wakatime.com/share/@Pris042/e54e9efc-51bd-4d1f-b92c-e07880c0646b.svg" width="400" >
+<img src="https://github-readme-stats.vercel.app/api?username=Pris042&count_private=true&show_icons=true&theme=graywhite" width="400"> <img src="https://wakatime.com/share/@Pris042/e54e9efc-51bd-4d1f-b92c-e07880c0646b.svg" width="400" >
  
 <img src="https://wakatime.com/share/@Pris042/e4e6aaf1-fdd4-477f-8d1c-1b8922e05a8b.svg" width="400">
 
@@ -153,6 +151,7 @@ int main() {
 }
 
  ```
+   
 
 <!--
 **Pris042/Pris042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
