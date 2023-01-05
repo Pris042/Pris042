@@ -2,12 +2,22 @@
 
 <p><img align="right" src="https://github.com/Pris042/Pris042/blob/main/Priscilia Babalola.gif" width"1000" height="400" /></p>
 
-I am an aspiring software engineer and cyber security specialist. I am extremly passionate about learning new coding langauges, creating cool projects and exploring ethical hacking. I hope to use my skills to create and explore how technology connects us together, as well as how it can be further used in unconventional industries. 
 
 ##                       Change has to start somewhere, and i want to incite or be apart of that change
 
+I am an aspiring software engineer and cyber security specialist. I am extremly passionate about learning new coding langauges, creating cool projects and exploring ethical hacking. I hope to use my skills to create and explore how technology connects us together, as well as how it can be further used in unconventional industries. 
 
 
+## Table Of Contents
+- About Me
+- Important Stats
+  - Wakatime coding 
+  - Github stats  
+- Tech knowledge to learn
+
+
+
+### About Me 
 ```
 /*
   Author: Priscilia Babalola
@@ -43,8 +53,8 @@ void codeKnowledge(){
   int currentlyLearning = 1;
   
   if (currentlyLearning > 0) {
-    int C++ = 0.2 * 10;
-    cout << C++ << "%";
+    int C++ = 0.5 * 10;
+    cout << "C++ Learning Percentage: " << C++ << "%";
   }
   
   for (int i = 0; i < 2; i++) {
@@ -56,7 +66,44 @@ void codeKnowledge(){
   return 0;
 }
 
-void toLearn() {
+
+int main() {
+  aboutMe();
+  codeKnowledge();
+
+  return 0;
+}
+
+```
+
+## Important Stats 
+
+#### Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pris042&count_private=true&show_icons=true&theme=graywhite" width="400">
+
+<img src="https://wakatime.com/share/@Pris042/e54e9efc-51bd-4d1f-b92c-e07880c0646b.svg" width="400" >
+ 
+<img src="https://wakatime.com/share/@Pris042/e4e6aaf1-fdd4-477f-8d1c-1b8922e05a8b.svg" width="400">
+
+</div>
+
+
+## Tech Knowledge to learn
+ ```
+  Author: Priscilia Babalola
+  Date: 04/01/2023 
+  
+  About: Program to learn more about me!
+*/
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+
+ void toLearn() {
   bool frontEnd = false;
   bool backEnd = false; 
   bool archtecture = false;
@@ -100,18 +147,12 @@ void toLearn() {
 }
 
 int main() {
-  aboutMe();
-  codeKnowledge();
   toLearn();
 
   return 0;
 }
 
-```
-
-
-
-
+ ```
 
 <!--
 **Pris042/Pris042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
